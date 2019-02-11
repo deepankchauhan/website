@@ -1,6 +1,6 @@
-p{
+.background{
 background-color: gray;
-font-family: san-serif;  
+font-family: monospace;  
 }
 
 .border{
