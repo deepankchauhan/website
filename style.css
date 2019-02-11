@@ -8,3 +8,8 @@ font-family: san-serif;
   border-width: 10px;
   border-style: solid;
   border-radius: 50%;
+}
+
+.smaller-image{
+  width: 10px;
+}
