@@ -13,3 +13,7 @@ font-family: san-serif;
 .smaller-image{
   width: 10px;
 }
+
+#images{
+  border-radius: 10px;
+}
