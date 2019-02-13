@@ -20,3 +20,10 @@ font-family: monospace;
 
 a{color: blue;}
 a:hover{color: red;}
+
+@media(max-width: 350px){
+  :root{
+  color: orange;
+  width: 200px;
+  }
+}
