@@ -45,4 +45,5 @@ text-align: justify;
 p{
 font-weight: bold;
 text-decoration: underline, line-through;
+font-style: italics;  
 }
