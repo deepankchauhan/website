@@ -46,6 +46,7 @@ p{
 font-weight: bold;
 text-decoration: underline, line-through;
 font-style: italics;  
+font-family: sans-serif; monospace;  
 }
 
 h1{color: blue;}
