@@ -1,6 +1,7 @@
 :root{
 --background: red;
-
+--body: 10px;
+--head: 30px;
 }
 
 .background{
