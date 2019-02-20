@@ -48,11 +48,6 @@ font-family: sans-serif; monospace;
 h1{color: blue;}
 h2{font-family: sans-serif; monospace;}
 
-#division{
-position: relative;
-  top: 10px;
-}
-
 .h6{
 color: gray;
 }
